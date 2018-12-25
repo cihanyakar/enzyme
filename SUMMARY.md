@@ -2,7 +2,7 @@
 
 * [Introduction](/README.md)
 * [Guides](/docs/guides.md)
-  * [Migration from 2.x to 3.x](/docs/guides/migration-from-2-to-3.md)
+  * [Migration from 2.x to 3.y](/docs/guides/migration-from-2-to-3.md)
   * [Browserify](/docs/guides/browserify.md)
   * [Webpack](/docs/guides/webpack.md)
   * [JSDOM](/docs/guides/jsdom.md)
